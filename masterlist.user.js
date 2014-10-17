@@ -8,6 +8,7 @@
 // @downloadURL		https://github.com/b1kjsh/tampermonkey_testing/raw/master/masterlist.user.js
 // @include     	http://*
 // @require		   	https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
+// @require			https://github.com/b1kjsh/tampermonkey_testing/raw/master/UserScript/test_require.user.js
 // ==/UserScript==
 
 console.log("Loaded Master version " + GM_info.script.version);
