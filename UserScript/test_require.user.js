@@ -5,6 +5,7 @@
 // @grant       	none
 // @description		Master list of scripts
 // @copyright  		2014+, Joshua Howard
+// @downloadURL		https://github.com/b1kjsh/tampermonkey_testing/raw/master/UserScript/test_require.user.js
 // @include     	http://*
 // @require		   	https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
 // ==/UserScript==
