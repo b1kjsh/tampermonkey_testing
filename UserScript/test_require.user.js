@@ -10,4 +10,4 @@
 // @require		   	https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
 // ==/UserScript==
 
-console.log("Loaded "+ GM_info.script.name +"version " + GM_info.script.version);
+console.log("Loaded "+ GM_info.script.name +" version " + GM_info.script.version);
